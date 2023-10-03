@@ -12,7 +12,7 @@ SecureSecretShare es una aplicación web que te permite enviar mensajes de forma
 ## Cómo Empezar
 Para comenzar a utilizar SecureSecretShare, sigue las siguientes instrucciones:
 
-1. Visita [SecureSecretShare.com](https://www.securesecretshare.com).
+1. Visita [.com](https://www..com).
 2. Crea tu mensaje y establece una contraseña.
 3. Genera un enlace único y compártelo con tu destinatario.
 4. Tu destinatario podrá acceder al mensaje durante el tiempo que determines con la contraseña proporcionada.
